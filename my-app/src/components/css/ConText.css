@@ -1,0 +1,42 @@
+.con-text{
+    width: 40%;
+    /* margin: 0 auto; */
+    height: 100%;
+    display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+
+}
+.con-heading{
+    font-size: 3rem;
+    color: red;
+    font-family: serif;
+    font-weight: bolder;
+    margin: 3% 0;
+}
+.con-content{
+    font-size: 1rem;
+    color: black;
+    font-family: serif;
+
+}
+.con-btns{
+    display: flex;
+    gap: 30px;
+    margin: 3% 0;
+}
+.con-btn{
+    padding: 4px 10px;
+    text-align: center;
+    height: 30px;
+    background: red;
+    border-radius: 4px;
+    color: white;
+    font-family: serif;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+.btn-category{
+    background: #000;
+}
