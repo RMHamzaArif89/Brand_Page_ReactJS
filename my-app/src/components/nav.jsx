@@ -11,8 +11,8 @@ function Nav() {
         <div className="list">
             <ul>
                 <li>Home</li>
-                <li>About</li>
-                <li>Informration</li>
+                <li>Categproes</li>
+                <li>Sign-in</li>
             </ul>
         </div>
 
